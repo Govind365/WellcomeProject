@@ -2,7 +2,10 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>Hey ! Welcome to global fpo </div>
+       <div>
+        <div>Hey ! Welcome to global fpo </div>
+        <div>welcome to global fpo development team</div>
+       </div>
   )
 }
 
